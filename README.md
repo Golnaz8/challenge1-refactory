@@ -26,6 +26,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+WHEN I view the CSS code
+THEN I find less unnessesary selectors 
 ```
 
 ## Assets
@@ -39,6 +41,11 @@ The following images demonstrate the web application's appearance and functional
 (./assets/css/images/online-reputation-management.jpg)
 (./assets/css/images/search-engine-optimization.jpg)
 (./assets/css/images/social-media-marketing.jpg)
+
+
+## github pages link
+https://golnaz8.github.io/challenge1-refactory/
+
 
 
 
