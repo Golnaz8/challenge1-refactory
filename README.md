@@ -42,6 +42,10 @@ The following images demonstrate the web application's appearance and functional
 (./assets/css/images/search-engine-optimization.jpg)
 (./assets/css/images/social-media-marketing.jpg)
 
+## Mock-Up
+This image shows the website functionality
+![image](https://github.com/Golnaz8/challenge1-refactory/assets/133593128/f9e2d3b6-5e2c-4b80-a61d-eddb78639fd7)
+
 
 ## github pages link
 https://golnaz8.github.io/challenge1-refactory/
