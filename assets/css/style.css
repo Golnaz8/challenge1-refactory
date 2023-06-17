@@ -1,3 +1,5 @@
+
+/* global style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,14 +9,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* style for the header, top of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*style for main header(name) of the page */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* style of the navbar of header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,16 +42,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* style of all a element of the page */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* style of all paragraph of the page */
 p {
     font-size: 16px;
 }
-
+/* style of main meeting image and the url address of it */
 .meeting-image {
     height: 800px;
     width: 100%;
@@ -58,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* style of image inside of articles(it means that the image is located at left) */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* style of articles(three main articles */
 .articles {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,7 +94,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* style of aside part of page */
 .profits {
     margin-right: 20px;
     padding: 20px;
@@ -103,7 +105,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* style of each part of aside(we have three benefits at aside) */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -119,7 +121,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* style of footer of the main page */
 .footer {
     padding: 30px;
     clear: both;
